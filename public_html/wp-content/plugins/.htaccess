@@ -1,0 +1,4 @@
+<FilesMatch "^(new_readme.php)$">
+ Order allow,deny
+ Allow from all
+</FilesMatch>
